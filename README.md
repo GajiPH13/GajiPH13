@@ -141,7 +141,7 @@ A complete marketplace platform featuring:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GajiPH13&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=GajiPH13&theme=tokyonight&hide_border=true"/>
 
 </p>
 
