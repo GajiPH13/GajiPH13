@@ -31,7 +31,7 @@ I'm constantly learning new technologies and improving my development workflow t
 - 📚 Exploring **JWT Authentication**
 - ⚡ Improving **System Design & Backend Architecture**
 - 💳 Working with **Stripe Payment Integration**
-- ☁️ Learning **Docker & AWS**
+- ☁️ Learning **Postgres and Sql**
 
 ---
 
@@ -129,9 +129,9 @@ A complete marketplace platform featuring:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GajiPH13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajiPH13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
