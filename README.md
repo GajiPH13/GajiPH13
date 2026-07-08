@@ -124,7 +124,7 @@ A complete marketplace platform featuring:
 </p>
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 <p align="center">
@@ -144,7 +144,7 @@ A complete marketplace platform featuring:
 <img src="https://streak-stats.demolab.com/?user=GajiPH13&theme=tokyonight&hide_border=true"/>
 
 </p>
-
+-->
 ---
 
 # 📈 Activity Graph
