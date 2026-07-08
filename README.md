@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="[YOUR_LINKEDIN_BANNER_IMAGE_URL](https://i.ibb.co/HTN9CkZR/linked-In-background-image.png)" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/HTN9CkZR/linked-In-background-image.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaji Najrul Islam</h1>
