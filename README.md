@@ -135,7 +135,6 @@ A complete marketplace platform featuring:
 
 </p>
 
----
 
 # 🔥 GitHub Streak
 
